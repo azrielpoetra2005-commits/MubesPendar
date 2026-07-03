@@ -15,14 +15,14 @@ export const CONFIG = {
   dashboardName: "PENDAR Live Counting Dashboard",
 
   // Nama acara (baris pertama identitas acara).
-  eventName: "Musyawarah Besar",
+  eventName: "Musyawarah Besar Kedua",
 
   // Nama organisasi (baris kedua identitas acara).
   organization: "PENA DARUSSALAM",
 
   // Deskripsi singkat yang tampil di landing page.
   description:
-    "Sistem rekapitulasi suara secara langsung untuk mendukung proses penghitungan yang transparan, cepat, dan akurat.",
+    "Semangat Perekat Ummat",
 
   // URL logo organisasi. Ganti dengan URL logo asli saat sudah tersedia.
   logo: "https://github.com/azrielpoetra2005-commits/MubesPendarKedua/blob/main/Logo%20Pendar.png",
