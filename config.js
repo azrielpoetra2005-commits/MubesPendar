@@ -25,7 +25,7 @@ export const CONFIG = {
     "Sistem rekapitulasi suara secara langsung untuk mendukung proses penghitungan yang transparan, cepat, dan akurat.",
 
   // URL logo organisasi. Ganti dengan URL logo asli saat sudah tersedia.
-  logo: "https://github.com/azrielpoetra2005-commits/MubesPendarKedua/commit/878b390a7813a9ad771226959bd25565e6b5de83",
+  logo: "https://github.com/azrielpoetra2005-commits/MubesPendarKedua/blob/main/Logo%20Pendar.png",
 
   // Total pemilih terdaftar (DPT). Isi angka jika ingin menampilkan progress
   // suara masuk terhadap DPT. Biarkan null jika tidak ingin menampilkan progress.
@@ -49,7 +49,7 @@ export const candidates = [
   {
     id: 2,
     name: "Husain Azhari",
-    image: "PASTE_IMAGE_URL_HERE",
+    image: "https://github.com/azrielpoetra2005-commits/MubesPendarKedua/blob/main/azriel%2001.heic",
     votes: 0,
   },
   {
