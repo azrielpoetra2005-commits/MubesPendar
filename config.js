@@ -25,7 +25,7 @@ export const CONFIG = {
     "Semangat Perekat Ummat",
 
   // URL logo organisasi. Ganti dengan URL logo asli saat sudah tersedia.
-  logo: "https://github.com/azrielpoetra2005-commits/MubesPendarKedua/blob/main/Logo%20Pendar.png",
+  logo: "https://raw.githubusercontent.com/azrielpoetra2005-commits/MubesPendarKedua/main/Logo%20Pendar.png",",
 
   // Total pemilih terdaftar (DPT). Isi angka jika ingin menampilkan progress
   // suara masuk terhadap DPT. Biarkan null jika tidak ingin menampilkan progress.
@@ -49,7 +49,7 @@ export const candidates = [
   {
     id: 2,
     name: "Husain Azhari",
-    image: "https://github.com/azrielpoetra2005-commits/MubesPendarKedua/blob/main/azriel%2001.heic",
+    image: "https://raw.github.com/azrielpoetra2005-commits/MubesPendarKedua/main/azriel%2001.heic",
     votes: 0,
   },
   {
