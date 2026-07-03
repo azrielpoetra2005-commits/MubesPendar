@@ -25,7 +25,7 @@ export const CONFIG = {
     "Sistem rekapitulasi suara secara langsung untuk mendukung proses penghitungan yang transparan, cepat, dan akurat.",
 
   // URL logo organisasi. Ganti dengan URL logo asli saat sudah tersedia.
-  logo: "PASTE_LOGO_URL_HERE",
+  logo: "https://github.com/azrielpoetra2005-commits/MubesPendarKedua/commit/878b390a7813a9ad771226959bd25565e6b5de83#diff-31099ea65cb759e251dab59d88f58b87caa6bac6ccc963f4ee222e3acb400669",
 
   // Total pemilih terdaftar (DPT). Isi angka jika ingin menampilkan progress
   // suara masuk terhadap DPT. Biarkan null jika tidak ingin menampilkan progress.
