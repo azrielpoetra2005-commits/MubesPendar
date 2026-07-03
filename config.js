@@ -15,17 +15,17 @@ export const CONFIG = {
   dashboardName: "PENDAR Live Counting Dashboard",
 
   // Nama acara (baris pertama identitas acara).
-  eventName: "Musyawarah Besar Kedua",
+  eventName: "Musyawarah Besar",
 
   // Nama organisasi (baris kedua identitas acara).
   organization: "PENA DARUSSALAM",
 
   // Deskripsi singkat yang tampil di landing page.
   description:
-    "Semangat Perekat Ummat",
+    "Sistem rekapitulasi suara secara langsung untuk mendukung proses penghitungan yang transparan, cepat, dan akurat.",
 
   // URL logo organisasi. Ganti dengan URL logo asli saat sudah tersedia.
-  logo: "https://raw.githubusercontent.com/azrielpoetra2005-commits/MubesPendarKedua/main/Logo%20Pendar.png",",
+  logo: "PASTE_LOGO_URL_HERE",
 
   // Total pemilih terdaftar (DPT). Isi angka jika ingin menampilkan progress
   // suara masuk terhadap DPT. Biarkan null jika tidak ingin menampilkan progress.
@@ -49,7 +49,7 @@ export const candidates = [
   {
     id: 2,
     name: "Husain Azhari",
-    image: "https://raw.github.com/azrielpoetra2005-commits/MubesPendarKedua/main/azriel%2001.heic",
+    image: "PASTE_IMAGE_URL_HERE",
     votes: 0,
   },
   {
